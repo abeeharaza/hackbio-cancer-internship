@@ -1,8 +1,15 @@
-Proteins as Drug Targets
+# Proteins as Drug Targets
 
 Proteins play a crucial role in a wide array of biological functions, making them prime targets in drug discovery and therapeutic intervention. Their involvement in catalyzing biochemical reactions, transmitting cellular signals, and maintaining cellular structure makes them ideal candidates for drug development. By understanding the structure and function of disease-related proteins, scientists can design molecules to modulate these proteins' activities, leading to therapeutic benefits.
 
+![7531eb97-5f77-4edc-ae77-c095018d2974](https://github.com/user-attachments/assets/029ec591-f2d5-41e4-a4cc-ed46b71a13fa)
+
+
 A central strategy in drug development is targeting proteins to alter their activity. Proteins like enzymes, receptors, ion channels, and structural components are integral to cellular networks. Disruptions in these networks often lead to disease. For example, excessive activity of enzymes like kinases, crucial for cell signaling, is a hallmark of many cancers. Inhibitors targeting these enzymes can disrupt abnormal cell growth, as seen with tyrosine kinase inhibitors like imatinib, which has significantly improved outcomes for chronic myeloid leukemia patients.
+
+
+![bb994978-0b21-4a9e-a59f-1de5e8b19a02](https://github.com/user-attachments/assets/92a4c790-180d-441d-af99-bb7b3910b07e)
+
 
 G-protein-coupled receptors (GPCRs) are another critical type of protein targeted by drugs. These receptors facilitate cellular communication by transmitting signals from outside the cell to inside. Drugs can act as agonists (activating GPCRs) or antagonists (blocking them). Given their involvement in numerous physiological processes, about one-third of all marketed drugs target GPCRs. For instance, beta-blockers, which inhibit beta-adrenergic receptors, are commonly used to treat conditions like hypertension.
 
