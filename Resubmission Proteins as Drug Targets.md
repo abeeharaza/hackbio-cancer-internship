@@ -1,4 +1,4 @@
-Proteins as Drug Targets
+# Proteins as Drug Targets
 
 Proteins play a crucial role in a wide array of biological functions, making them prime targets in drug discovery and therapeutic intervention. Their involvement in catalyzing biochemical reactions, transmitting cellular signals, and maintaining cellular structure makes them ideal candidates for drug development. By understanding the structure and function of disease-related proteins, scientists can design molecules to modulate these proteins' activities, leading to therapeutic benefits.<!--[if supportFields]><span
  style='mso-element:field-begin'></span> CITATION Phi02 \l 1033 <span
@@ -23,6 +23,11 @@ Despite advancements in protein-targeted drug therapy, challenges remain. Achiev
 Recent advancements have sought to overcome these challenges. Biologics, such as monoclonal antibodies, have expanded the range of targetable proteins, including those previously deemed “undruggable” <!--[if supportFields]><span style='mso-element:field-begin'></span><span
  style='mso-spacerun:yes'> </span>CITATION LuR20 \l 1033 <span
  style='mso-element:field-separator'></span><![endif]-->(Lu 2020)<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]-->. Allosteric modulators, which bind outside a protein’s active site, offer a more nuanced approach to modulating protein function with potentially fewer side effects.
+
+
+![image](https://github.com/user-attachments/assets/4a970855-5c2f-4234-9bc9-181df211c742)
+
+
 
 In conclusion, proteins are invaluable drug targets due to their central role in disease processes. While challenges like selectivity, resistance, and druggability persist, ongoing research and technological advancements continue to enhance the potential of protein-targeted therapies.
 
